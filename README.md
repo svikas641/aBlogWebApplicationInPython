@@ -1,2 +1,2 @@
 # aBlogWebApplicationInPython
-It is a blog website made using HTML, CSS , Django and Pyton.
+It is a blog web Application made using HTML, CSS , Django and Pyton.
